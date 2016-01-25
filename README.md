@@ -10,4 +10,4 @@ Discussion of room culture
 
 ## Issue visibility
 
-Issues that include voting are to remain open for at least 72 hours in order to give owners from different time zones the ability to read and address them. 
+Issues that include voting are to [remain open for at least 72 hours](https://github.com/JavaScriptRoom/culture/issues/12) in order to give owners from different time zones the ability to read and address them. 

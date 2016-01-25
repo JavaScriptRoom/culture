@@ -7,3 +7,7 @@ Discussion of room culture
 [Changes to room ownership](https://github.com/JavaScriptRoom/culture/issues/1) shall be proposed via an issue on this repository. RO proposals will have 72 hours for voting, after which the proposal will be acted on if 50% or more of standing votes are in favour. Exceptions will be made for ROs that are clearly vandalizing or damaging the room, in which case they can have RO status removed immediately, to prevent further damage.
 
 [Click here to request a room owner be added or removed.](https://github.com/JavaScriptRoom/culture/issues/new) Please pin a link to the issue in the JavaScript chat room.
+
+## Issue visibility
+
+Issues that include voting are to remain open for at least 72 hours in order to give owners from different time zones the ability to read and address them. 
